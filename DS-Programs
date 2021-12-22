@@ -1,4 +1,6 @@
 IMPLEMENTATION OF LIST
+
+
 EXERCISE 1.1 [List ADT Using Array]
 Program code :
 #include<stdio.h>
@@ -145,6 +147,8 @@ void search()
  printf("\n ----------------------------------- \n");
 }
 Program Output :
+
+
 
 EXERCISE 1.2 [Singly Linked List]
 Program code:-
@@ -1262,7 +1266,9 @@ int main() {
  return 0;
 }
 Program Output:
-e
+
+
+
 EXERCISE 3 [Binary Search Tree]
 Program code:
 // Binary Search Tree operations in C
@@ -1406,6 +1412,8 @@ int main() {
  }
 }
 Program Output:
+
+
 
 EXERCISE 4 [AVL Tree]
 Program Code:
@@ -1988,6 +1996,8 @@ Program Code:
  }
  }
 Program Output:
+
+
 
 EXERCISE 6.1 [Breadth First Search]
 Program Code:
